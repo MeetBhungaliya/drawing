@@ -1,6 +1,6 @@
-import Chat from "@/components/Chat";
-import Drawing from "@/components/Drawing";
-import Sidebar from "@/components/Sidebar.user";
+import Chat from "@/app/components/Chat";
+import Drawing from "@/app/components/Drawing";
+import Sidebar from "@/app/components/Sidebar.user";
 
 const page = () => {
   return (
